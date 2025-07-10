@@ -23,7 +23,7 @@ They can be accessed them via the following shared folders:
 - **Grayscale dataset (used to train A1 and A2):**  
   https://drive.google.com/drive/folders/1PPjKJ-YfbRQhSzHCgZX-xBh5a8_VsITZ?usp=sharing
 
-- **Dataset without test data leakage:**  
+- **Dataset without test data leakage: (because this dataset has all used test data, all the models used in the research are in this dataset.**  
   https://drive.google.com/drive/folders/1fMiR1WC5l2EqHkdYNqKbgE0u1iniDA95?usp=sharing
 
 - **Full thesis dataset:**  
