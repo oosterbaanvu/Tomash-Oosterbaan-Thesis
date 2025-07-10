@@ -20,7 +20,11 @@ This repository contains all code used for my bachelor thesis.
 The datasets are stored in Google Drive and are too large to include here.
 
 You can access them via this shared folder:  
-Grayscale dataset, used to train A1 and A2. https://drive.google.com/drive/folders/1PPjKJ-YfbRQhSzHCgZX-xBh5a8_VsITZ?usp=sharing
-Dataset without test data leakage. https://drive.google.com/drive/folders/1fMiR1WC5l2EqHkdYNqKbgE0u1iniDA95?usp=sharing
-Full thesis dataset. https://drive.google.com/drive/folders/1DS5Wy2FlgDf0saUcuco-8c3t2ojv7d5L?usp=sharing 
-Bootstrapping dataset. https://drive.google.com/drive/folders/139_nYa4QBqKjl0sipJytDZFsqVs46ru4?usp=sharing 
+Grayscale dataset, used to train A1 and A2:
+https://drive.google.com/drive/folders/1PPjKJ-YfbRQhSzHCgZX-xBh5a8_VsITZ?usp=sharing
+Dataset without test data leakage:
+https://drive.google.com/drive/folders/1fMiR1WC5l2EqHkdYNqKbgE0u1iniDA95?usp=sharing
+Full thesis dataset:
+https://drive.google.com/drive/folders/1DS5Wy2FlgDf0saUcuco-8c3t2ojv7d5L?usp=sharing 
+Bootstrapping dataset:
+https://drive.google.com/drive/folders/139_nYa4QBqKjl0sipJytDZFsqVs46ru4?usp=sharing 
